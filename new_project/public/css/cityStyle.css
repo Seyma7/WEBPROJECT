@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous'); /*     font-family: 'Righteous', cursive; */
+@import url('https://fonts.googleapis.com/css?family=Miriam+Libre'); /* font-family: 'Miriam Libre', sans-serif; */
+@import url('https://fonts.googleapis.com/css?family=Cuprum|Orbitron'); /*  font-family: 'Cuprum', sans-serif;  font-family: 'Orbitron', sans-serif; */
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One'); /* font-family: 'Alfa Slab One', cursive; */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+.cityBody{
+    
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 100%;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+#header{
+    color:black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    width: 1200px;
+    margin: 0 auto;
+}
+.yazi{
+    color: black;
+    background-color:#D2D8FB ;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    margin-top: 125px;
+    font-size: 24px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0 auto;
+   
+}
+.veda{
+    color:black;
+    border: solid;
+    margin-top:30px;
+    width: 1200;
+    background-color:  white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    margin: 0 auto;
+}
+.diogenes{
+    color:black;
+    border: solid;
+    margin-top:30px;
+    background-color:  white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.doga{
+    color:black;
+    border: solid;
+    margin-top:30px;
+    background-color:  white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.mutfak{
+    color:black;
+    border: solid;
+    margin-top:30px;
+    background-color:  white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.kultur{
+    color:black;
+    border: solid;
+    margin-top:30px;
+    background-color:  white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+

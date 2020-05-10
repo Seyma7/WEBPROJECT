@@ -1,0 +1,43 @@
+@import url('<link href="https://fonts.googleapis.com/css?family=Galada|Great+Vibes|Josefin+Sans|Lobster+Two&display=swap" rel="stylesheet">'); /*     font-family: 'Righteous', cursive; */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap'); /* font-family: 'Josefin Sans', sans-serif; */
+@import url('<link href="https://fonts.googleapis.com/css?family=Galada|Josefin+Sans&display=swap" rel="stylesheet">'); /*font-family: 'Galada', cursive;*/
+
+
+
+.baslik{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.linkler{
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 24px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: purple;
+}
+
+
+#makale1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    width: 1200;
+}
+.resim{
+    width: 420px;
+    height: 140px;
+}
+#Hresim1{
+    display: none;
+}
+#Hresim2{
+    display: none;
+}
+#Hresim3{
+    display: none;
+}
+#Hresim4{
+    display: none;
+}
+.image img{
+    width: 500px;height: 500px;margin: 0 auto;margin-top: 20px;margin-left: 450px;
+}
