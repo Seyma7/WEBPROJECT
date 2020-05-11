@@ -13,13 +13,14 @@ $sifre = $_POST["password"];
 // $sql_check = mysql_query("select * from uyeler where username='".$kadi."' and password='".$sifre."' ") or die(mysql_error());
  if(!empty($kadi) and !empty($sifre)){
     if($kadi=="b191210029@ogr.sakarya.com.tr" and $sifre=="123")  {
-        $_SESSION["login"] = "tre";
+        $_SESSION["login"] = "true";
         $_SESSION["user"] = $kadi;
         $_SESSION["pass"] = $sifre;
-        echo "Hoşgeldin     ";echo   explode('@',$kadi)[0];
-        header("Refresh: 2; url=about.html");
+        echo "Hoşgeldin  :) :)   ";echo   explode('@',$kadi)[0];
+        header("Refresh: 2; url=index.html");
     }
-    else{
+    else
+    {
         $_SESSION["login"] = "false";
         echo "Kullancı Adı veya Şifre Yanlış.<br>";
           echo "Giriş sayfasına yönlendiriliyorsunuz.";
